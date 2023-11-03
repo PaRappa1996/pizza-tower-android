@@ -7,7 +7,7 @@
   "volume": 0.75,
   "preload": true,
   "bitRate": 128,
-  "sampleRate": 44100,
+  "sampleRate": 48000,
   "type": 0,
   "bitDepth": 1,
   "audioGroupId": {
@@ -15,7 +15,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "mu_chase.mp3",
-  "duration": 158.87,
+  "duration": 175.00,
   "parent": {
     "name": "Music",
     "path": "folders/Sounds/Music.yy",
